@@ -1,1 +1,1 @@
-Ceci est un text qui contien des phautes
+Ceci est un text qui contient des fautes
