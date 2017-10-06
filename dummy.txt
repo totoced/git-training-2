@@ -1,1 +1,3 @@
 Ceci est un text qui contien des phautes
+
+Ceci est du texte rajouté peut etre avec des faute, va savoire ....
