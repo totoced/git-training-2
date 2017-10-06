@@ -1,0 +1,4 @@
+Principale commaned de fusion de branches : 
+Se positionner dans la branche cible : "git checkout branche_cible' 
+Fusionnner les branches : 'git merge branche_source' 
+
