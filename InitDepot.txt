@@ -1,0 +1,27 @@
+## Titre : Les commandes principales pour créer un dépôt GIT
+
+
+# Créer un nouveau dépôt : 
+git init <NOM_DU_DEPOT>
+# ex : git init dep_toto
+
+# Cloner un dépôt existant 
+git clone <LIEN_DU_DEPOT>
+# ex : git clone git@github.com:formationgit102017/git-training-2.git
+
+# Afficher les branches
+git branch -a
+
+# Changer de branche
+git checkout <NOM_DE_BRANCHE>
+
+# Créer une branche
+git branch <NOM_DE_BRANCHE>
+
+# Afficher l'état d'un dépôt
+git status
+
+# Afficher les logs du dépôt
+git log
+
+Et pour le reste aller sur le lien suivant : http://192.168.94.250:8080/resources/initiationgit.pdf
